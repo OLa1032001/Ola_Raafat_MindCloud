@@ -1,5 +1,5 @@
 print('Ola Raafat')
 print(22)
-print('Communication')
+print('department : Communication')
 print(2024)
 print('Software')
