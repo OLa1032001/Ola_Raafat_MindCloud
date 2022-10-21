@@ -1,5 +1,5 @@
 print('Ola')
 print(22)
-print('Communication')
+print('department:Communication ')
 print(2024)
-print('Software')
+print('My favourite team: Software')
